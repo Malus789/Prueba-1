@@ -1,0 +1,373 @@
+body {
+
+font: 10px;
+
+text-align: center;
+background-color: #fafafa;
+
+
+
+}
+
+.button {
+	font-size: 11px;
+	padding-left: 1.75em;
+    padding-right: 1.75em;
+}
+
+.column {
+	padding-top: 4px;
+}
+
+#Header {
+	padding-top: 26px;
+	padding-bottom: 26px;
+	border-bottom-width: 1px;
+	border-bottom-style: ridge;
+	background-color: white;
+	height: 77px;
+	
+}	
+
+#LogoStyle {
+	Text-align: right;
+	margin-right: 7px;
+	
+}	
+
+
+.input{
+	width: 215px;
+	height: 28px;
+	Text-align: center;
+	margin-top: 7;	
+	color: #999;	
+	font-size: 14px;
+	background: #fafafa;
+    border: solid 1px #dbdbdb;	
+	box-shadow: inset 0 0px 0px rgba(10,10,10,.1);
+	
+}
+
+
+#MenuStyle {
+	display: -webkit-box;
+    margin-left: 26px;
+    margin-top: 10;
+}
+
+.MenuStyles {
+
+	margin-left: 30px;
+}
+
+#MenuStylesExplorar{
+
+	Margin-top: -1;
+}
+
+#MenuStylesCor{
+
+	Margin-top: 1;
+}
+
+#MenuStylesIconPers{
+
+	Margin-top: 1;
+}
+
+#PictureP{
+	text-align: right;
+	/*margin-right: 30px;*/
+	    
+}
+
+.avatar {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 152px;
+    width: 152px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+	border:7px solid #e67eab;
+
+}
+
+#columnInfo{
+		Display: block;
+		
+			padding-right: 53px;
+			padding-left: 67px;
+}
+
+#Content{
+    display: inline-block;
+}	
+	
+.g47SY{
+	font-weight: bold;
+	text-color: red;
+	
+	
+}
+
+#v9tJq{
+	box-sizing: content-box;
+    padding: 58px 20px 0;
+    width: calc(100% - 40px);
+	
+}
+
+#TituloInfo{
+	margin-bottom: 17px;
+	font-size: 32px;
+    line-height: 40px;
+    font-weight: 200;
+	text-align:left;
+    margin-top: 6px;	
+}
+
+#VerificadoIMG{
+    margin-bottom: 4;
+    margin-left: -2;
+	padding-Right: 11px;
+	
+}
+
+.button.is-link {
+	background: #3897f0;
+    border-color: #3897f0;
+    color: #fff;
+	
+	width: 42px;
+    height: 28px;
+    padding-left: 23px;
+    padding-right: 27px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 7px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    right: 10px;	
+	
+
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+	right: 0px;	
+
+}
+
+.buttonFlecha{
+    padding-top: 7px;
+	
+}
+
+#DivListaInfot{
+	text-align:left;
+
+
+}	
+
+#PictureInfo2{
+	text-align: left;
+    margin-bottom: 44px;
+	
+}
+
+#PictureInfoetc{
+	display: -webkit-box;
+	margin-bottom: 41px;
+
+}
+
+
+#PictureInfoetctodo{
+    display: inline-flex;
+}
+
+.PictureInfoetcpicture{
+    Width: 77px;
+	Height: 77px;
+}
+	
+.avatarInfoetcpicture {
+
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+	border:2px solid gray;
+
+}
+
+.PictureInfoetcTexto{
+    padding-top: 15px;
+	text-overflow: ellipsis;
+	font-weight: 600;
+	color: black;
+	font-size:14px;
+}
+	
+.PictureInfoetcItem1{
+
+	text-align: left;
+
+	padding-Right: 15px;
+	padding-Top: 10px;	
+	padding-Bottom: 10px;
+}
+	
+	
+.PictureInfoetcItem{
+
+	text-align: left;
+	padding-left: 35px;
+	padding-Right: 10px;
+	padding-Top: 10px;	
+	padding-Bottom: 10px;
+}
+	
+#InfoT2{
+	float:left;
+	margin-top: 11px;
+	display: block;
+	width:auto;
+	height:auto;
+	font-size: 16px;
+    line-height: 24px;
+    word-wrap: break-word;
+    font-weight: 600;	
+}	
+
+#InfoT3{
+
+	width:fit-content;
+	height:auto;
+
+}	
+
+#LeSigueC{
+    color: #999;
+    display: block;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 14px;
+
+
+}	
+	
+.k9GMp{
+	text-align:left;
+	//float: left;
+	font-size: 16px;
+    margin-right: 40px;
+	
+	margin-bottom: 20px;	
+}
+
+#k9GM{
+    padding-bottom: 6px;
+}	
+	
+#Publicaciones {
+	border-top: 1px solid #efefef;
+	width: 935px;
+    display: inline-block;	
+		
+}	
+
+#PublicacionesHeader {
+    display: -webkit-inline-box;
+	Text-transform: uppercase;
+
+} 
+
+#PublicacionesHeaderPubli{
+	Padding-right: 60;
+	Height: 52;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#PublicacionesHeaderEtiq{
+	Height: 52;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#PublicacionesHeaderPost{
+	display: -webkit-inline-box;
+}
+
+
+
+.PublicacionesHeaderP{
+    margin-right: 28px;
+    margin-bottom: 28px;	
+}
+
+.PublicacionesHeaderPU{
+    margin-right: 0px;
+    margin-bottom: 28px;	
+}
+
+	
+#PublicacionesHeaderPubliIcon {
+    display: -webkit-inline-box;
+
+} 
+
+#PublicacionesHeaderEtiqIcon {
+    display: -webkit-inline-box;
+
+}
+
+
+.PubliHeaderIcon{
+    margin-right: 6px;
+	
+}
+
+p{
+
+font-size:12ppx;
+
+color:#0000FF;
+
+text-align:left;
+
+}
+
+ a{   
+ color: inherit;
+ }
+	
+h1{
+
+color:#FF0000;
+
+text-align:left;
+
+}
+
+#estilo1{
+
+color:#FFFFFF;
+
+font-size:15px;
+
+background-color: #000000;
+
+text-align:left;
+
+}
